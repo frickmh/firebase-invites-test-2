@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "568846199943",
+    "firebase_url": "https://fir-invites-test.firebaseio.com",
+    "project_id": "fir-invites-test",
+    "storage_bucket": "fir-invites-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568846199943:android:d8a78a19c82e58e9",
+        "android_client_info": {
+          "package_name": "com.fric.firebaseinvitestest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568846199943-mk9usho466af6juu1c4b5gjfp1vmrocn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fric.firebaseinvitestest",
+            "certificate_hash": "e3c32ac045743a86ce1fef55088a461e09c9da5c"
+          }
+        },
+        {
+          "client_id": "568846199943-u9k4df6upgcr97015g8si7r4f1knf1tm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "568846199943-u9k4df6upgcr97015g8si7r4f1knf1tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbyvIfHlWdcNnCM8I4Hsp7k4xnje6Bv1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568846199943-u9k4df6upgcr97015g8si7r4f1knf1tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568846199943:android:f172f12c4050a5e0",
+        "android_client_info": {
+          "package_name": "com.fric.firebaseinvitestest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568846199943-6bb46gdno08bcelhim56br71eqfehk6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fric.firebaseinvitestest2",
+            "certificate_hash": "e3c32ac045743a86ce1fef55088a461e09c9da5c"
+          }
+        },
+        {
+          "client_id": "568846199943-u9k4df6upgcr97015g8si7r4f1knf1tm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "568846199943-u9k4df6upgcr97015g8si7r4f1knf1tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbyvIfHlWdcNnCM8I4Hsp7k4xnje6Bv1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568846199943-u9k4df6upgcr97015g8si7r4f1knf1tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
